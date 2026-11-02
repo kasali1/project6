@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Product Explorer</string>
+    <string name="search_hint">Search products (e.g. phone, perfume)…</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="no_products_found">No products found matching your query.</string>
+    <string name="error_loading">Failed to load products. Check internet connection.</string>
+    <string name="all_categories">All</string>
+    <string name="cat_beauty">Beauty</string>
+    <string name="cat_fragrances">Fragrances</string>
+    <string name="cat_furniture">Furniture</string>
+    <string name="cat_groceries">Groceries</string>
+</resources>
